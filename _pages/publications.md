@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "课程介绍"
+title: "考试资源"
 permalink: /publications/
 author_profile: true
 ---
