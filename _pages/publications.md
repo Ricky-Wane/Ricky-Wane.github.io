@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "Publications"
+title: "课程介绍"
 permalink: /publications/
 author_profile: true
 ---
