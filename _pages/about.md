@@ -7,7 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+关于我们
+======
+尊敬的学子们，欢迎来到飞跃留学！作为市场上备受赞誉的留学服务机构，我们以扎实的实力和专业的经验，为学生提供全方位的留学支持。
+
+在飞跃留学，我们拥有一支由经验丰富的教师组成的顶尖师资团队。他们不仅具备深厚的学科知识，还具备丰富的教学经验和独特的教学方法。我们相信每位学生都有自己独特的学习需求，因此我们采用个性化的教学方法，针对学生的弱点和需求进行有针对性的指导，确保每位学生都能够充分发挥自己的潜力，取得优异的成绩。
+
+为了满足学生的多样化需求，飞跃留学提供了广泛的课程培训。我们的英语培训涵盖了托福、雅思等主流考试，我们通过系统化的学习计划和精心设计的教材，帮助学生提高听、说、读、写的能力，并掌握应试技巧。此外，我们还提供了Alevel、IB、AP等国际课程的培训，帮助学生适应国际教育体系，为未来的留学做好准备。
+
+除了英语培训和国际课程培训，飞跃留学还致力于培养学生在各类学科竞赛中的竞争力。我们提供了广泛的数学竞赛（如AMC、AIME、欧几里得竞赛、BMO等）、物理竞赛、化学、生物、计算机等科目的培训，帮助学生拓展视野、激发学术兴趣，并在竞赛中取得卓越成绩。
+
+在飞跃留学，我们坚持以优惠的价格和优质的服务著称。我们深知留学对学生未来的重要性，因此我们不仅提供高品质的教育培训，还注重与学生和家长的沟通和合作，确保他们在留学考试中取得最佳成绩。
+
+选择飞跃留学，您将迎来留学之路的新起点。我们真诚邀请您加入我们的大家庭，让我们携手助您飞跃人生巅峰！
 
 Hello website
 ======
