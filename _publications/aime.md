@@ -23,9 +23,9 @@ date: 2024-01-01
 
 |课程| 专题           |        内容                                                      |
 |----------| --------      |  ------ |
-|2018 AIME I| [Problems](https://ricky-wane.github.io/files/2018_AIMEI_Problems.pdf)   | [Solutions](https://ricky-wane.github.io/files/2018_AIMEI_Solutions.pdf)                       |
-|2018 AIME II| [Problems](https://ricky-wane.github.io/files/2018_AIMEII_Problems.pdf)   | [Solutions](https://ricky-wane.github.io/files/2018_AIMEII_Solutions.pdf)                          |
-|2017 AIME I| [Problems](https://ricky-wane.github.io/files/2017_AIMEI_Problems.pdf)    | [Solutions](https://ricky-wane.github.io/files/2017_AIMEI_Solutions.pdf)                         |
+|1| [计数概率](https://ricky-wane.github.io/files/2018_AIMEI_Problems.pdf)   | [Solutions](https://ricky-wane.github.io/files/2018_AIMEI_Solutions.pdf)                       |
+|2| [平面几何](https://ricky-wane.github.io/files/2018_AIMEII_Problems.pdf)   | [Solutions](https://ricky-wane.github.io/files/2018_AIMEII_Solutions.pdf)                          |
+|3| [初等数论](https://ricky-wane.github.io/files/2017_AIMEI_Problems.pdf)    | [Solutions](https://ricky-wane.github.io/files/2017_AIMEI_Solutions.pdf)                         |
 
 ### AIME课堂笔记
 |课程| 专题          |        内容                                                      |
