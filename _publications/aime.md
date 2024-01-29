@@ -13,7 +13,7 @@ date: 2024-01-01
 
 |年份| 试卷           |        答案                                                       |
 |----------| --------      |  ------ |
-|2018 AIME I| [Problems](#)   | [Solutions](#)                       |
+|2018 AIME I| [Problems](ricky-wane.github.io/files/2018_AIMEI_Problems)   | [Solutions](#)                       |
 |2018 AIME II| [Problems](#)   | [Solutions](#)                          |
 |2017 AIME I| [Problems](#)    | [Solutions](#)                         |
 
