@@ -21,7 +21,7 @@ date: 2024-01-01
 
 ### AIME历年真题
 
-|年份| 试卷           |        答案                                                       |
+|课程| 专题           |        内容                                                      |
 |----------| --------      |  ------ |
 |2018 AIME I| [Problems](https://ricky-wane.github.io/files/2018_AIMEI_Problems.pdf)   | [Solutions](https://ricky-wane.github.io/files/2018_AIMEI_Solutions.pdf)                       |
 |2018 AIME II| [Problems](https://ricky-wane.github.io/files/2018_AIMEII_Problems.pdf)   | [Solutions](https://ricky-wane.github.io/files/2018_AIMEII_Solutions.pdf)                          |
