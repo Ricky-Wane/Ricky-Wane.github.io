@@ -11,9 +11,9 @@ date: 2024-01-01
 
 ### AIME历年真题
 
-|年份| 试卷和答案           |                                                               |
-|------| --------      |  ------------------------------------------------------------ |
-|2018| [John Doe](#)   | Description of the item in the list                          |
-|2018| [Jane Doe](#)   | Description of the item in the list                          |
-|2018| [Doe Doe](#)    | Description of the item in the list                          |
+|年份| 试卷           |        答案                                                       |
+|----------| --------      |  ------ |
+|2018 AIME I| [Problems](#)   | [Solutions](#)                       |
+|2018 AIME II| [Problems](#)   | [Solutions](#)                          |
+|2017 AIME I| [Problems](#)    | [Solutions](#)                         |
 
