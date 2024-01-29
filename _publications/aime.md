@@ -17,6 +17,16 @@ date: 2024-01-01
 |2018 AIME II| [Problems](https://ricky-wane.github.io/files/2018_AIMEII_Problems.pdf)   | [Solutions](https://ricky-wane.github.io/files/2018_AIMEII_Solutions.pdf)                          |
 |2017 AIME I| [Problems](https://ricky-wane.github.io/files/2017_AIMEI_Problems.pdf)    | [Solutions](https://ricky-wane.github.io/files/2017_AIMEI_Solutions.pdf)                         |
 
+
+
+### AIME历年真题
+
+|年份| 试卷           |        答案                                                       |
+|----------| --------      |  ------ |
+|2018 AIME I| [Problems](https://ricky-wane.github.io/files/2018_AIMEI_Problems.pdf)   | [Solutions](https://ricky-wane.github.io/files/2018_AIMEI_Solutions.pdf)                       |
+|2018 AIME II| [Problems](https://ricky-wane.github.io/files/2018_AIMEII_Problems.pdf)   | [Solutions](https://ricky-wane.github.io/files/2018_AIMEII_Solutions.pdf)                          |
+|2017 AIME I| [Problems](https://ricky-wane.github.io/files/2017_AIMEI_Problems.pdf)    | [Solutions](https://ricky-wane.github.io/files/2017_AIMEI_Solutions.pdf)                         |
+
 ### AIME课堂笔记
 |课程| 专题          |        内容                                                      |
 |------| -----------------|  -----------------------------------------------------------------------------|
