@@ -11,13 +11,13 @@ date: 2024-01-01
 
 ### Table 2
 
-| 年份 | AIME I | AIME I | AIME II | AIME II | Header3 |
-|:--------|:-------:|--------:|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   | cell4   | cell5   | cell6   |
-|-----------------------------|-----------------------------|
-| cell1   | cell2   | cell3   |cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |cell4   | cell5   | cell6   |
-|=============================|=============================|
-| Foot1   | Foot2   | Foot3   |Foot1   | Foot2   | Foot3   |
+| 年份 | AIME I | AIME I |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   | 
+|-----------------------------|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=============================|
+| Foot1   | Foot2   | Foot3   |
 
