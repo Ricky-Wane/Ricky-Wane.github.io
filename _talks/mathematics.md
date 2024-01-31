@@ -3,7 +3,7 @@ title: "数学老师"
 collection: talks
 type: "Talk"
 permalink: /talks/mathematics
-venue: "UC San Francisco, Department of Testing"
+venue: "Singapore"
 date: 2024-01-01
 location: "Singapore"
 ---
