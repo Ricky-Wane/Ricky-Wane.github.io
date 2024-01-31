@@ -1,11 +1,11 @@
 ---
 title: "数学老师"
 collection: talks
-type: "Talk"
+#type: "Talk"
 permalink: /talks/mathematics
-venue: "Singapore"
+#venue: "Singapore"
 date: 2024-01-01
-location: "Singapore"
+#location: "Singapore"
 ---
 
 **[Ricky wane老师](https://ricky-wane.github.io/talks/ricky-wane)**
