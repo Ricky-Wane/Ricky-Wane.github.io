@@ -8,4 +8,5 @@ date: 2024-01-01
 location: "Singapore"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+**[Ricky wane老师](https://ricky-wane.github.io/talks/ricky-wane)**
+Ricky Wane老师毕业于新加坡国立大学数学系，从事国际教育5年
