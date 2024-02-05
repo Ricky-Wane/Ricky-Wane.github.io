@@ -13,7 +13,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 Heading 1
 ======
 
-<iframe height=300 width=500 src="https://ricky-wane.github.io/images/hu.mp4">
+<iframe height=300 width=500 src="https://ricky-wane.github.io/images/AIME_6.png">
   
 Heading 2
 ======
