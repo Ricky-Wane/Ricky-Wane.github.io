@@ -26,21 +26,26 @@ redirect_from:
 
 | Lectures            | Topics   |   Contents                                                           |
 | --------         | ------ | ------------------------------------------------------------ |
-| Lecture 1    | 2016   | Description of the item in the list                          |
-| Lecture 2   | 2019   | Description of the item in the list                          |
-| Lecture 3    | 2022   | Description of the item in the list                          |
-| Lecture 4       | ------ | ------------------------------------------------------------ |
-| Lecture 5  | 2016   | Description of the item in the list                          |
-| Lecture 6   | 2019   | Description of the item in the list                          |
-| Lecture 7    | 2022   | Description of the item in the list                          |
-| Lecture 8    | 2016   | Description of the item in the list                          |
-| Lecture 9   | 2019   | Description of the item in the list                          |
-| Lecture 10    | 2022   | Description of the item in the list                          |
-| Lecture 11       | ------ | ------------------------------------------------------------ |
-| Lecture 12  | 2016   | Description of the item in the list                          |
-| Lecture 13   | 2019   | Description of the item in the list                          |
-| Lecture 14    | 2022   | Description of the item in the list                          |
-| Lecture 15    | 2022   | Description of the item in the list                          |
+| Lecture 1    | 初等数论I   | Description of the item in the list                          |
+| Lecture 2   | 初等数论II   | Description of the item in the list                          |
+| Lecture 3    | 初等数论III   | Description of the item in the list                          |
+| Lecture 4       | 计数I | ------------------------------------------------------------ |
+| Lecture 5  | 计数II   | Description of the item in the list                          |
+| Lecture 6   | 计数III   | Description of the item in the list                          |
+| Lecture 7    | 概率I   | Description of the item in the list                          |
+| Lecture 8    | 概率II  | Description of the item in the list                          |
+| Lecture 9   | 平面几何I   | Description of the item in the list                          |
+| Lecture 10    | 平面几何II  | Description of the item in the list                          |
+| Lecture 11       | 解析几何I | ------------------------------------------------------------ |
+| Lecture 12       | 解析几何II | ------------------------------------------------------------ |
+| Lecture 13  | 立体几何   | Description of the item in the list                          |
+| Lecture 14   | 对数函数  | Description of the item in the list                          |
+| Lecture 15    | 三角函数   | Description of the item in the list                          |
+| Lecture 16    | 高斯函数   | Description of the item in the list                          |
+| Lecture 17    | 抽象函数   | Description of the item in the list                          |
+| Lecture 18   | 数列  | Description of the item in the list                          |
+| Lecture 19    | 多项式   | Description of the item in the list                          |
+| Lecture 20    | 复数   | Description of the item in the list                          |
 
 Hello website
 ======
